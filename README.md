@@ -1,1 +1,0 @@
-# Ziyaretci-Uyelik-Girisi
