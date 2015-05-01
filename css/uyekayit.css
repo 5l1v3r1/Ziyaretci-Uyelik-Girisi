@@ -1,0 +1,92 @@
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 62.5%;
+	font-family: Helvetica, sans-serif;
+	background: url(images/web.jpg) repeat;
+}
+
+p {
+	font-size: 1.3em;
+	margin-bottom: 15px;
+}
+
+#page-wrap {
+	width: 660px;
+	background:#00FF66;
+	padding: 20px 50px 20px 0px;
+	margin: 20px auto;
+	height: auto !important;
+}
+.resim
+{
+margin-left:0px;
+}
+
+label {
+	float: left;
+	text-align: right;
+	margin-right: 15px;
+	width: 100px;
+	padding-top: 5px;
+	font-size: 1.4em;
+}
+
+.dis
+{
+	width: 660px;
+	margin-top: 20px;
+	height: auto;
+}
+
+.birinci label , .ikinci label , .ucuncu label , .dorduncu label 
+{
+	margin-top: 5px;
+	width: 190px;
+	font-family: Helvetica, sans-serif;
+	font-size: 1.8em;
+	float:left;
+}
+.birinci input , .ikinci input , .ucuncu input , .dorduncu input
+{
+	margin-top: 5px;
+	padding: 5px;
+	width: 450px;
+	font-size: 1.8em;
+	border: 2px solid #ccc;
+}
+.besinci label
+{
+    margin-top: 5px;
+	width: auto;
+	font-family: Helvetica, sans-serif;
+	font-size: 1.8em;
+	float:left;
+}
+
+.besinci input
+{
+margin-top: 12px;
+float:left;
+}
+
+.altinci input.submit-button
+{
+	width: 80px;
+	float: right;
+    font-size:1.8em;
+    font-family: Helvetica, sans-serif;
+    height: 50px;
+    margin-top:50px;
+    border:1px dotted black;
+}
+.altinci input.submit-button:hover
+{
+	background-color: gray;
+	color:#fff;
+
+}
